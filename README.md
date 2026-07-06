@@ -41,7 +41,7 @@ Actualmente enfocado en construir APIs escalables, sistemas empresariales y apli
 ### Bases de Datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### Herramientas
