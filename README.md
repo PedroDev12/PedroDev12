@@ -20,7 +20,6 @@ Actualmente enfocado en construir APIs escalables, sistemas empresariales y apli
 - 💻 Backend Developer
 - 🌎 Santo Domingo, República Dominicana
 - 🎓 Licenciado en Informática
-- 🌱 Actualmente aprendiendo Arquitectura de Software y DevOps
 - 🔥 Buscando oportunidades como Backend Developer
 
 ---
@@ -30,7 +29,7 @@ Actualmente enfocado en construir APIs escalables, sistemas empresariales y apli
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,php,ts,js,dotnet" />
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,php,ts,js" />
 </p>
 
 ### Frontend
