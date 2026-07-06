@@ -5,8 +5,8 @@
 <h3>Backend Developer | Laravel • NestJS • Node.js • TypeScript</h3>
 
 <p>
-Apasionado por el desarrollo de software, la arquitectura backend y la automatización de procesos.
-Actualmente enfocado en construir APIs escalables, sistemas empresariales y aplicaciones Full Stack.
+Migro sistemas legados a arquitecturas modernas y construyo APIs escalables para sistemas empresariales.
+Actualmente en VIXICOM LLC, abierto a oportunidades remotas como Backend/Fullstack Developer.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Laravel+%7C+NestJS+%7C+Node.js;TypeScript+%7C+PostgreSQL;Siempre+aprendiendo+nuevas+tecnologías" />
@@ -17,9 +17,11 @@ Actualmente enfocado en construir APIs escalables, sistemas empresariales y apli
 
 # 🚀 Sobre mí
 
-- 💻 Backend Developer
+- 💼 Backend Developer en VIXICOM LLC
+- 🎓 Licenciado en Informática, UASD (Cum Laude) 
 - 🌎 Santo Domingo, República Dominicana
 - 🎓 Licenciado en Informática
+- 🎯 Enfocado en APIs escalables, arquitectura backend y automatización de procesos
 - 🔥 Buscando oportunidades como Backend Developer
 
 ---
