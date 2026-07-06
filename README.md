@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hola, soy Pedro Luis Félix</h1>
+<h1>👋 Hola, soy Pedro</h1>
 
 <h3>Backend Developer | Laravel • NestJS • Node.js • TypeScript</h3>
 
@@ -91,37 +91,6 @@ Características:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=2&column=4"/>
-
-</div>
-
----
 
 # 📫 Contacto
 
