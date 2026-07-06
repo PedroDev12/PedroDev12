@@ -37,7 +37,7 @@ Actualmente en VIXICOM LLC, abierto a oportunidades remotas como Backend/Fullsta
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
 ### Bases de Datos
@@ -96,13 +96,11 @@ Características:
 
 <p>
 
-📧 Email: tuemail@email.com
+📧 Email: pedroluisperez33@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/tuusuario
+https://www.linkedin.com/in/pedro-luis-felix
 
-🌐 Portafolio:
-https://tuportafolio.com
 
 </p>
 
