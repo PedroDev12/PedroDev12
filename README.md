@@ -9,8 +9,6 @@ Migro sistemas legados a arquitecturas modernas y construyo APIs escalables para
 Actualmente en VIXICOM LLC, abierto a oportunidades remotas como Backend/Fullstack Developer.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Laravel+%7C+NestJS+%7C+Node.js;TypeScript+%7C+PostgreSQL;Siempre+aprendiendo+nuevas+tecnologías" />
-
 </div>
 
 ---
