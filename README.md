@@ -20,7 +20,6 @@ Actualmente en VIXICOM LLC, abierto a oportunidades remotas como Backend/Fullsta
 - 💼 Backend Developer en VIXICOM LLC
 - 🎓 Licenciado en Informática, UASD (Cum Laude) 
 - 🌎 Santo Domingo, República Dominicana
-- 🎓 Licenciado en Informática
 - 🎯 Enfocado en APIs escalables, arquitectura backend y automatización de procesos
 - 🔥 Buscando oportunidades como Backend Developer
 
