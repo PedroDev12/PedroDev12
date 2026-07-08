@@ -2,7 +2,7 @@
 
 <h1>👋 Hola, soy Pedro</h1>
 
-<h3>Full Stack Developer | Laravel • NestJS • Node.js • TypeScript</h3>
+<h3>Full Stack Developer | Laravel • NestJS • NextJS • TypeScript</h3>
 
 <p>
 Migro sistemas legados a arquitecturas modernas y construyo APIs escalables para sistemas empresariales.
