@@ -34,7 +34,7 @@ Actualmente en VIXICOM LLC, abierto a oportunidades remotas como Backend/Fullsta
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=next.jshtml,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### Bases de Datos
