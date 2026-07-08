@@ -51,7 +51,7 @@ Actualmente en VIXICOM LLC, abierto a oportunidades remotas como Backend/Fullsta
 
 ---
 
-# 📂 Proyectos
+# 💼 Proyectos
 
 ### 🛒 ElectrolamaStore
 
